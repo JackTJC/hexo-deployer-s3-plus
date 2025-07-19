@@ -1,6 +1,6 @@
 {
     "name": "hexo-deployer-s3-plus",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A flexible Hexo deployer for AWS S3 and other S3-compatible services like Tebi.io, MinIO, and Cloudflare R2. Updated for Hexo 7.",
     "main": "index",
     "keywords": [
