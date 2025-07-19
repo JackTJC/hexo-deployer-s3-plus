@@ -9,7 +9,7 @@ This is a deployment plugin for [Hexo](https://hexo.io) that allows you to deplo
 
 This plugin is perfect for:
 *   **AWS S3**
-*   **Teby.io**
+*   **Tebi.io**
 *   **MinIO**
 *   **Cloudflare R2**
 *   **DigitalOcean Spaces**

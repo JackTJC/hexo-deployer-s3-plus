@@ -1,7 +1,7 @@
 {
-    "name": "hexo-deployer-s3",
+    "name": "hexo-deployer-s3-plus",
     "version": "1.0.0",
-    "description": "Amazon S3 deployer plugin for Hexo",
+    "description": "A flexible Hexo deployer for AWS S3 and other S3-compatible services like Tebi.io, MinIO, and Cloudflare R2. Updated for Hexo 7.",
     "main": "index",
     "keywords": [
         "hexo",
@@ -9,24 +9,19 @@
         "aws",
         "deployer"
     ],
-    "author": "Nicholas Terwoord <nicholas.terwoord+code@gmail.com>",
+    "author": "tianjincai <tianjincai@hotmail.com>",
     "contributors": [
         {
-            "name": "Josh Strange",
-            "email": "josh@joshstrange.com"
-        },
-        {
-            "name": "Jack Guy",
-            "email": "jack@thatguyjackguy.com"
-        },
-        {
-            "name": "Josenivaldo Benito Jr.",
-            "email": "jrbenito@benito.qsl.br"
+            "name": "tianjincai",
+            "email": "tianjincai@hotmail.com"
         }
     ],
     "repository": {
         "type": "git",
-        "url": "http://github.com/nt3rp/hexo-deployer-s3.git"
+        "url": "git+https://github.com/JackTJC/hexo-deployer-s3-plus.git"
+    },
+    "bugs": {
+    "url": "https://github.com/JackTJC/hexo-deployer-s3-plus/issues" 
     },
     "license": {
         "type": "MIT"
