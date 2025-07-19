@@ -2,8 +2,10 @@
 
 # Hexo Deployer for S3-Compatible Services
 
-[![NPM version](https://img.shields.io/npm/v/hexo-deployer-s3.svg?style=flat-square)](https://www.npmjs.com/package/hexo-deployer-s3)
-[![NPM downloads](https://img.shields.io/npm/dm/hexo-deployer-s3.svg?style=flat-square)](https://www.npmjs.com/package/hexo-deployer-s3)
+[![NPM version](https://img.shields.io/npm/v/hexo-deployer-s3-plus.svg?style=flat-square)](https://www.npmjs.com/package/hexo-deployer-s3-plus)
+[![NPM downloads](https://img.shields.io/npm/dm/hexo-deployer-s3-plus.svg?style=flat-square)](https://www.npmjs.com/package/hexo-deployer-s3-plus)
+
+English|[简体中文](README_zh.md)
 
 This is a deployment plugin for [Hexo](https://hexo.io) that allows you to deploy your static site to any S3-compatible object storage service. It is built using the AWS SDK v3, ensuring modern features and robust performance.
 
@@ -27,7 +29,7 @@ This plugin is perfect for:
 ## Installation
 
 ```bash
-npm install hexo-deployer-s3 --save
+npm install hexo-deployer-s3-plus --save
 ```
 
 ## Configuration
